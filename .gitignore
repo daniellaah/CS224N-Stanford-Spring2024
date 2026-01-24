@@ -1,0 +1,102 @@
+############################
+# macOS
+############################
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+############################
+# Editor / IDE
+############################
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+############################
+# Python
+############################
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.pyre/
+
+############################
+# Virtual Environments
+############################
+.env
+.venv
+venv/
+env/
+ENV/
+conda-env/
+.conda/
+
+############################
+# Jupyter
+############################
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+############################
+# Machine Learning / DL
+############################
+checkpoints/
+runs/
+logs/
+tensorboard/
+wandb/
+mlruns/
+
+############################
+# Data (IMPORTANT)
+############################
+data/
+datasets/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.npz
+
+############################
+# Outputs / Results
+############################
+results/
+outputs/
+figures/
+plots/
+
+############################
+# OS / Misc
+############################
+Thumbs.db
+Desktop.ini
+
+############################
+# Archives
+############################
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+############################
+# Environment & Secrets
+############################
+.env.*
+*.key
+*.pem
+secrets.yaml
+secrets.json
+
