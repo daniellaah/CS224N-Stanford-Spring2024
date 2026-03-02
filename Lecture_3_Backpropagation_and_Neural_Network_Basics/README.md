@@ -2,7 +2,7 @@
 
 ## Course Materials
 
-- [slides](Slides/cs224n-spr2024-lecture03-neuralnets.pdf)
+- [slides](cs224n-spr2024-lecture03-neuralnets.pdf)
 - [notes](cs224n-2019-notes03-neuralnets.pdf)
 
 ## Suggested Readings
