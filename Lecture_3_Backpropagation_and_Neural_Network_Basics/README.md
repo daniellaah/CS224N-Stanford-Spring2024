@@ -1,25 +1,20 @@
 # Lecture 3 - Backpropagation and Neural Network Basics
 
-## Slides
-[cs224n-spr2024-lecture03-neuralnets.pdf](Slides/cs224n-spr2024-lecture03-neuralnets.pdf)
+## Course Materials
 
-## Notes
-[cs224n-2019-notes03-neuralnets.pdf](cs224n-2019-notes03-neuralnets.pdf)
+- [slides](Slides/cs224n-spr2024-lecture03-neuralnets.pdf)
+- [notes](cs224n-2019-notes03-neuralnets.pdf)
 
-## Readings
+## Suggested Readings
 
-[matrix calculus notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/readings/gradient-notes.pdf)
+1. [matrix calculus notes](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/readings/gradient-notes.pdf)
+2. [Review of differential calculus](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/readings/review-differential-calculus.pdf)
+3. [CS231n notes on network architectures](http://cs231n.github.io/neural-networks-1/)
+4. [CS231n notes on backprop](http://cs231n.github.io/optimization-2/)
+5. [Derivatives, Backpropagation, and Vectorization](http://cs231n.stanford.edu/handouts/derivatives.pdf)
+6. [Learning Representations by Backpropagating Errors](http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf) (seminal Rumelhart et al. backpropagation paper)
 
-[Review of differential calculus](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/readings/review-differential-calculus.pdf)
+## Additional Readings
 
-[CS231n notes on network architectures](http://cs231n.github.io/neural-networks-1/)
-
-[CS231n notes on backprop](http://cs231n.github.io/optimization-2/)
-
-[Derivatives, Backpropagation, and Vectorization](http://cs231n.stanford.edu/handouts/derivatives.pdf)
-
-[Learning Representations by Backpropagating Errors (seminal Rumelhart et al. backpropagation paper)](http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
-
-[Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
-
-[Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
+1. [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+2. [Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
