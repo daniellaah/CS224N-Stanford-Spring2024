@@ -3,7 +3,7 @@
 ## Course Materials
 
 - [slides](cs224n-spr2024-lecture06-fancy-rnn.pdf)
-- [notes(lectures 5 and 6)](../cs224n-2019-notes05-LM_RNN.pdf)
+- [notes(lectures 5 and 6)](../Lecture5 Recurrent Neural Networks/cs224n-2019-notes05-LM_RNN.pdf)
 
 ## Suggested Readings
 
