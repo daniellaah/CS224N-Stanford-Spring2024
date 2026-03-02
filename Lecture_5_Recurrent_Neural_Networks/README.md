@@ -1,7 +1,9 @@
 # Lecture 5 Recurrent Neural Networks
 
 ## Course Materials
-[slides](cs224n-spr2024-lecture05-rnnlm.pdf), [notes(lectures 5 and 6)](cs224n-2019-notes05-LM_RNN.pdf)
+
+- [slides](cs224n-spr2024-lecture05-rnnlm.pdf)
+- [notes(lectures 5 and 6)](cs224n-2019-notes05-LM_RNN.pdf)
 
 ## Suggested Readings
 1. [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf) (textbook chapter)
