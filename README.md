@@ -6,8 +6,8 @@ Course website: [CS224N Winter 2026](https://web.stanford.edu/class/cs224n/)
 
 Slides and notes:
 
-- [intro slides](Lecture01_History_of_NLP/cs224n-2026-lecture01-intro.pdf)
-- [history slides](Lecture01_History_of_NLP/cs224n-2026-lecture01-history.pdf)
+- [intro slides](Lectures/Lecture01_History_of_NLP/cs224n-2026-lecture01-intro.pdf)
+- [history slides](Lectures/Lecture01_History_of_NLP/cs224n-2026-lecture01-history.pdf)
 
 Suggested readings:
 
@@ -17,9 +17,9 @@ Suggested readings:
 
 Slides and notes:
 
-- [slides](Lecture02_Word_Vectors/cs224n-2026-lecture02-wordvecs.pdf)
-- [notes 1](Lecture02_Word_Vectors/cs224n_winter2023_lecture1_notes_draft.pdf)
-- [notes 2](Lecture02_Word_Vectors/cs224n-2019-notes02-wordvecs2.pdf)
+- [slides](Lectures/Lecture02_Word_Vectors/cs224n-2026-lecture02-wordvecs.pdf)
+- [notes 1](Lectures/Lecture02_Word_Vectors/cs224n_winter2023_lecture1_notes_draft.pdf)
+- [notes 2](Lectures/Lecture02_Word_Vectors/cs224n-2019-notes02-wordvecs2.pdf)
 
 Suggested readings:
 
@@ -37,16 +37,16 @@ Additional readings:
 
 # Session 01 - Python Review Session
 
-- [slides](Python_Review_session/2024_CS224N_Python_Review_Session_Slides.pptx.pdf)
-- [ipynb](Python_Review_session/python_review_session.ipynb)
+- [slides](Tutorial_Sessions/Python_Review_session/2024_CS224N_Python_Review_Session_Slides.pptx.pdf)
+- [ipynb](Tutorial_Sessions/Python_Review_session/python_review_session.ipynb)
 
 
 # Lecture 03 - Backpropagation and Neural Network Basics
 
 Slides and notes:
 
-- [slides](Lecture03_Backpropagation_and_Neural_Network_Basics/cs224n-2026-lecture03-neuralnets.pdf)
-- [notes](Lecture03_Backpropagation_and_Neural_Network_Basics/cs224n-2019-notes03-neuralnets.pdf)
+- [slides](Lectures/Lecture03_Backpropagation_and_Neural_Network_Basics/cs224n-2026-lecture03-neuralnets.pdf)
+- [notes](Lectures/Lecture03_Backpropagation_and_Neural_Network_Basics/cs224n-2019-notes03-neuralnets.pdf)
 
 Suggested readings:
 
@@ -66,8 +66,8 @@ Additional readings:
 
 Slides and notes:
 
-- [slides](Lecture04_Language_Models_and_RNNs/cs224n-2026-lecture04-rnnlm.pdf)
-- [notes](Lecture04_Language_Models_and_RNNs/cs224n-2019-notes05-LM_RNN.pdf)
+- [slides](Lectures/Lecture04_Language_Models_and_RNNs/cs224n-2026-lecture04-rnnlm.pdf)
+- [notes](Lectures/Lecture04_Language_Models_and_RNNs/cs224n-2019-notes05-LM_RNN.pdf)
 
 Suggested readings:
 
@@ -79,15 +79,15 @@ Suggested readings:
 
 # Session 02 - PyTorch Tutorial Session
 
-- [ipynb (export)](PyTorch_Tutorial_session/pytorch_tutorial_session.ipynb)
-- [official notebook](PyTorch_Tutorial_session/CS224N_PyTorch_Tutorial.ipynb)
+- [ipynb (export)](Tutorial_Sessions/PyTorch_Tutorial_session/pytorch_tutorial_session.ipynb)
+- [official notebook](Tutorial_Sessions/PyTorch_Tutorial_session/CS224N_PyTorch_Tutorial.ipynb)
 
 # Lecture 05 - Transformers
 
 Slides and notes:
 
-- [slides](Lecture05_Transformers/cs224n-2026-lecture05-transformers.pdf)
-- [notes](Lecture05_Transformers/cs224n-self-attention-transformers-2023_draft.pdf)
+- [slides](Lectures/Lecture05_Transformers/cs224n-2026-lecture05-transformers.pdf)
+- [notes](Lectures/Lecture05_Transformers/cs224n-self-attention-transformers-2023_draft.pdf)
 
 Suggested readings:
 
@@ -104,7 +104,7 @@ Suggested readings:
 
 Slides and notes:
 
-- [slides](Lecture06_Final_Projects_Custom_and_Default_Practical_Tips/cs224n-2026-lecture06-final-project.pdf)
+- [slides](Lectures/Lecture06_Final_Projects_Custom_and_Default_Practical_Tips/cs224n-2026-lecture06-final-project.pdf)
 
 Suggested readings:
 
@@ -115,7 +115,7 @@ Suggested readings:
 
 Slides and notes:
 
-- [slides](Lecture07_Pretraining_Scaling_Systems_Data/cs224n-2026-lecture07-pretraining.pdf)
+- [slides](Lectures/Lecture07_Pretraining_Scaling_Systems_Data/cs224n-2026-lecture07-pretraining.pdf)
 
 Suggested readings:
 
@@ -130,7 +130,7 @@ Suggested readings:
 
 Slides and notes:
 
-- [slides](Lecture08_Post_training_RLHF_SFT_DPO/cs224n-2026-lecture08-posttraining.pdf)
+- [slides](Lectures/Lecture08_Post_training_RLHF_SFT_DPO/cs224n-2026-lecture08-posttraining.pdf)
 
 Suggested readings:
 
@@ -145,7 +145,7 @@ Suggested readings:
 
 Slides and notes:
 
-- [slides](Lecture09_Efficient_Adaptation_Prompting_PEFT/cs224n-2026-lecture09-peft.pdf)
+- [slides](Lectures/Lecture09_Efficient_Adaptation_Prompting_PEFT/cs224n-2026-lecture09-peft.pdf)
 
 Suggested readings:
 
@@ -160,7 +160,7 @@ Suggested readings:
 
 Slides and notes:
 
-- [slides](Lecture10_Agents_Tool_Use_and_RAG/cs224n-2026-lecture10-rag-agents.pdf)
+- [slides](Lectures/Lecture10_Agents_Tool_Use_and_RAG/cs224n-2026-lecture10-rag-agents.pdf)
 
 Suggested readings:
 
@@ -172,15 +172,15 @@ Suggested readings:
 
 # Session 03 - Hugging Face Transformers Tutorial Session
 
-- [slides](Hugging_Face_Transformers_Tutorial_session/hf_transformers_tutorial.pdf)
-- [ipynb](Hugging_Face_Transformers_Tutorial_session/hf_transformers_tutorial_session.ipynb)
+- [slides](Tutorial_Sessions/Hugging_Face_Transformers_Tutorial_session/hf_transformers_tutorial.pdf)
+- [ipynb](Tutorial_Sessions/Hugging_Face_Transformers_Tutorial_session/hf_transformers_tutorial_session.ipynb)
 
 
 # Lecture 11 - Benchmarking and Evaluation
 
 Slides and notes:
 
-- [slides](Lecture11_Benchmarking_and_Evaluation/cs224n-2026-lecture11-evaluation.pdf)
+- [slides](Lectures/Lecture11_Benchmarking_and_Evaluation/cs224n-2026-lecture11-evaluation.pdf)
 
 Suggested readings:
 
@@ -194,7 +194,7 @@ Suggested readings:
 
 Slides and notes:
 
-- [slides](Lecture12_Reasoning_1/cs224n-2026-lecture12-reasoning-part1.pdf)
+- [slides](Lectures/Lecture12_Reasoning_1/cs224n-2026-lecture12-reasoning-part1.pdf)
 
 Suggested readings:
 
@@ -208,7 +208,7 @@ Suggested readings:
 
 Slides and notes:
 
-- [slides](Lecture13_Reasoning_2/cs224n-2026-lecture13-reasoning-part2.pdf)
+- [slides](Lectures/Lecture13_Reasoning_2/cs224n-2026-lecture13-reasoning-part2.pdf)
 
 Suggested readings:
 
@@ -221,7 +221,7 @@ Suggested readings:
 
 Slides and notes:
 
-- [slides](Lecture14_Guest_Lecture_Tokenization_and_Multilinguality/cs224n-2026-lecture14-guest-julie-tokenization-multilinguality.pdf)
+- [slides](Lectures/Lecture14_Guest_Lecture_Tokenization_and_Multilinguality/cs224n-2026-lecture14-guest-julie-tokenization-multilinguality.pdf)
 
 Suggested readings:
 
@@ -235,7 +235,7 @@ Suggested readings:
 
 Slides and notes:
 
-- [README](Lecture15_Guest_Lecture_Interpretability/README.md)
+- [README](Lectures/Lecture15_Guest_Lecture_Interpretability/README.md)
 
 Suggested readings:
 
@@ -250,14 +250,14 @@ Suggested readings:
 
 Slides and notes:
 
-- [slides](Lecture16_Social_and_Broader_Impacts_of_NLP_Risks/cs224n-2026-lecture16-impact-on-humanity.pdf)
+- [slides](Lectures/Lecture16_Social_and_Broader_Impacts_of_NLP_Risks/cs224n-2026-lecture16-impact-on-humanity.pdf)
 
 
 # Lecture 17 - Guest Lecture: Multimodality
 
 Slides and notes:
 
-- [README](Lecture17_Guest_Lecture_Multimodality/README.md)
+- [README](Lectures/Lecture17_Guest_Lecture_Multimodality/README.md)
 
 Suggested readings:
 
@@ -280,14 +280,14 @@ Additional readings:
 
 Slides and notes:
 
-- [README](Lecture18_Guest_Lecture_Tinker_and_LoRA_Without_Regret/README.md)
+- [README](Lectures/Lecture18_Guest_Lecture_Tinker_and_LoRA_Without_Regret/README.md)
 
 
 # Lecture 19 - Open Questions in NLP 2026
 
 Slides and notes:
 
-- [slides](Lecture19_Open_Questions_in_NLP_2026/cs224n-2026-lecture19-open-questions.pdf)
+- [slides](Lectures/Lecture19_Open_Questions_in_NLP_2026/cs224n-2026-lecture19-open-questions.pdf)
 
 
 # Assignment 1 - Introduction to word vectors
