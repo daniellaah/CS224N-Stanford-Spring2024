@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-CS224N 2023-2024: Homework 2
+CS224N 2024-2025: Homework 2
 parser_model.py: Feed-Forward Neural Network for Dependency Parsing
 Sahil Chopra <schopra8@stanford.edu>
 Haoshen Hong <haoshen@stanford.edu>
@@ -106,7 +106,7 @@ class ParserModel(nn.Module):
         ###     Gather: https://pytorch.org/docs/stable/torch.html#torch.gather
         ###     View: https://pytorch.org/docs/stable/tensors.html#torch.Tensor.view
         ###     Flatten: https://pytorch.org/docs/stable/generated/torch.flatten.html
-
+        x = None
 
 
         ### END YOUR CODE
@@ -143,7 +143,7 @@ class ParserModel(nn.Module):
         ### Please see the following docs for support:
         ###     Matrix product: https://pytorch.org/docs/stable/torch.html#torch.matmul
         ###     ReLU: https://pytorch.org/docs/stable/nn.html?highlight=relu#torch.nn.functional.relu
-
+        logits = None
 
         ### END YOUR CODE
         return logits
